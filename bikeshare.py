@@ -258,4 +258,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
+
+#Note for improvement - add a final greeting when the user enters 'no' for "would you like to restart?"
