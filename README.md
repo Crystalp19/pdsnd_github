@@ -7,7 +7,7 @@ Date this GIT project was created 07/09/2025. Date of bike share project submiss
 Project: Explore US Bikeshare Data
 
 ### Description
-Create a python code to allow a user to explore data related to bike share systems for three major cities in the United States. Those cities are: Chicago, New York City, and Washington. Created an interactive experience in the terminal to present statistics on the data from the cities. 
+Created a python code to allow a user to explore data related to bike share systems for three major cities in the United States. Those cities are: Chicago, New York City, and Washington. Created an interactive experience in the terminal to present statistics on the data from the cities. This was part of the class Programming for Data Science with Python.
 
 ### Files used
 The files used were bikeshare.py, chiacgo.csv, new_york_city.csv, washington.csv, and readme.txt for my sources (see Credits).
