@@ -125,6 +125,7 @@ def time_stats(df):
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
 
+#Display most common month, day, hour
     if not df.empty:
         month_common = df['Start Time'].dt.month_name().mode()[0] #shows first mode
         print(f"Most common month: {month_common}")
@@ -259,4 +260,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
+
+#Note for improvement - add a final greeting when the user enters 'no' for "would you like to restart?"
