@@ -8,7 +8,7 @@ GIT HUB Project
 Project: Explore US Bikeshare Data
 
 ### Description
- For this project, I created a workflow to refactor my previous BikeShare project using Git. This involved setting up a repository, improving documentation, refactoring, and merging branches. Prior to the GIT project, I created a python code to allow a user to explore data related to bike share systems for three major cities in the United States. Those cities are: Chicago, New York City, and Washington. Created an interactive experience in the terminal to present statistics on the data from the cities. This was part of the class Programming for Data Science with Python.
+ For this project, I created a workflow to refactor my previous BikeShare project using Git. This involved setting up a repository, improving documentation, refactoring, and merging branches. Prior to the GIT project, I created a python code to allow a user to explore data related to bike share systems for three major cities in the United States. Those cities are: Chicago, New York City, and Washington. Created an interactive experience in the terminal to present statistics on the data from the cities. This was part of the class Programming for Data Science with Python. Necessary updates were needed to be made to the commit comments to be more descriptive. 
 
 ### Files used
 The files used were bikeshare.py, chiacgo.csv, new_york_city.csv, washington.csv, and readme.txt for my sources (see Credits).
