@@ -5,6 +5,7 @@ The date this project was created was 07/09/2025, and the date this README was u
 
 ### Project Title
 GIT Hub Project
+Project: Explore US Bikeshare Data
 
 ### Description
 For this project, I created a workflow to refactor my previous BikeShare project using Git. This involved setting up a repository, improving documentation, refactoring, and merging branches. Additionally, I created a python code to allow a user to explore data related to bike share systems for three major cities in the United States. Those cities are: Chicago, New York City, and Washington. Created an interactive experience in the terminal to present statistics on the data from the cities. This was part of the class Programming for Data Science with Python.
