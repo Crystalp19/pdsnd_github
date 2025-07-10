@@ -4,6 +4,7 @@
 Date this GIT project was created 07/09/2025. Date of bike share project submission: 06/23/2025.
 
 ### Project Title
+GIT Project
 Project: Explore US Bikeshare Data
 
 ### Description
