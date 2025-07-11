@@ -254,7 +254,7 @@ def main():
         user_stats(df)
         display_data(df) #needed for the 5 row prompt
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart the project? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
 
