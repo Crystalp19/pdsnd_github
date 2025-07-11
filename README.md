@@ -34,3 +34,6 @@ Udacity Python - multiple sections
 
 https://docs.python.org/3/tutorial/
 
+Udacity Git Commit Message Style Guide
+https://udacity.github.io/git-styleguide/
+
