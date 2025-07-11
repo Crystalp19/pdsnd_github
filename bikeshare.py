@@ -1,4 +1,4 @@
-# Bike Share Project
+# Bikeshare Project for Udacity
 import pandas as pd
 import numpy as np
 import time
@@ -126,18 +126,20 @@ def time_stats(df):
     start_time = time.time()
 
 #Display most common month, day, hour
+#Display most common month
     if not df.empty:
         month_common = df['Start Time'].dt.month_name().mode()[0] #shows first mode
         print(f"Most common month: {month_common}")
     else:
         print("No data for most common months")
 
+#Display most common day
     if not df.empty:
         day_common = df['Start Time'].dt.day_name().mode()[0] #shows first mode
         print(f"Most common day: {day_common}")
     else:
         print("No data for most common day")
-
+#Display most common hour
     if not df.empty:
         hour_common = df['Start Time'].dt.hour.value_counts().idxmax()
         hours = f"{hour_common:00}" #two digits
@@ -254,7 +256,7 @@ def main():
         user_stats(df)
         display_data(df) #needed for the 5 row prompt
 
-        restart = input('\nWould you like to restart? Enter yes or no.\n')
+        restart = input('\nWould you like to restart the project? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
 
